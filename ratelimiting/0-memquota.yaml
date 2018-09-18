@@ -11,5 +11,5 @@ spec:
     overrides:
     - dimensions:
         destination: productpage
-      maxAmount: 2
+      maxAmount: 5
       validDuration: 5s
